@@ -38,7 +38,7 @@ def alan_kay_is_known_for
         }
      }
 end
-
+programmer_hash[:alan_kay][:known_for]
 def dennis_ritchies_language
 	programmer_hash = 
  		{
@@ -56,7 +56,7 @@ def dennis_ritchies_language
         }
      }
 end
-programmer_hash[:alan_kay][:known_for]
+
 
 def adding_matz
 # add the following information to the top level of programmer_hash
